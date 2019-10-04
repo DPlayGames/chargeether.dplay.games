@@ -16,7 +16,7 @@ ChargeEther.Home = CLASS({
 				top : 0,
 				width : '100%',
 				minHeight : '100%',
-				backgroundImage : '/ChargeEther/R/background.png'
+				backgroundImage : '/ChargeEther/R/background.jpg'
 			},
 			
 			contentStyle : {
